@@ -1,0 +1,3 @@
+Respuesta 1: Fue inventado por L. Tovarlds en el año 2005
+Respuesta 2: Actualmente pertenece a Microsoft, quien lo compro en el año 2018
+Respuesta 3: Si, puede accederse desde un IDE, por ejemplo, VSCode
