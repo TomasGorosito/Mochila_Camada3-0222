@@ -1,0 +1,1 @@
+Vscode es un entorno de desarrollo integrado (IDE) y gitbash es una aplicación de terminal que se utiliza como interfaz con un sistema operativo mediante comandos escritos (CLI).
